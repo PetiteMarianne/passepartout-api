@@ -8,7 +8,8 @@
             "image_small": "https://images.telequebec.tv/medias/044598/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/61321198-2296-4c6a-b3cd-2529f902fe1d/0ae58c05-ac46-4a7a-844d-00b2ee3db07e/1280x720/match/image.jpg",
             "season": "1",
-            "number": "1"
+            "number": "1",
+            "keywords": "épisode 1saison 1bonjour"
         },
         {
             "id": "2",
@@ -18,7 +19,8 @@
             "image_small": "https://images.telequebec.tv/medias/044609/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/37d5e3d3-2d6e-4a08-a1e0-933d1af95a91/574bdaf3-1631-4e21-aa82-4e1c83309441/1280x720/match/image.jpg",
             "season": "1",
-            "number": "2"
+            "number": "2",
+            "keywords": "épisode 2saison 1"
         },
         {
             "id": "3",
@@ -28,7 +30,8 @@
             "image_small": "https://images.telequebec.tv/medias/044625/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/4485bfb5-1b5d-42b5-9552-501d2cae733d/83e0b6a7-3b0d-4717-9b73-71dee4fe86f1/1280x720/match/image.jpg",
             "season": "1",
-            "number": "3"
+            "number": "3",
+            "keywords": "épisode 3saison 1"
         },
         {
             "id": "4",
@@ -38,7 +41,8 @@
             "image_small": "https://images.telequebec.tv/medias/044845/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9982e788-2243-456b-915e-9c5d8c4219fe/ac89ca9a-d338-4076-ada8-8ade40c98985/1280x720/match/image.jpg",
             "season": "1",
-            "number": "4"
+            "number": "4",
+            "keywords": "épisode 4saison 1"
         },
         {
             "id": "5",
@@ -48,7 +52,8 @@
             "image_small": "https://images.telequebec.tv/medias/044877/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/b0a975bb-4fca-4cd6-a793-e6993894ec40/345fff40-201c-41ec-a978-8c1a9e383a12/1280x720/match/image.jpg",
             "season": "1",
-            "number": "5"
+            "number": "5",
+            "keywords": "épisode 5saison 1"
         },
         {
             "id": "6",
@@ -58,7 +63,8 @@
             "image_small": "https://images.telequebec.tv/medias/045025/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/243dc47f-8fd8-4c61-a463-0658527533ab/8183c2bc-ef59-432c-b298-7ddaa6af8cdb/1280x720/match/image.jpg",
             "season": "1",
-            "number": "6"
+            "number": "6",
+            "keywords": "épisode 6saison 1"
         },
         {
             "id": "7",
@@ -68,7 +74,8 @@
             "image_small": "https://images.telequebec.tv/medias/045353/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ddb2883f-6db0-4100-b790-015318664d6d/b1942b38-97be-4782-94d3-13179529956c/1280x720/match/image.jpg",
             "season": "1",
-            "number": "7"
+            "number": "7",
+            "keywords": "épisode 7saison 1"
         },
         {
             "id": "8",
@@ -78,7 +85,8 @@
             "image_small": "https://images.telequebec.tv/medias/045364/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/5ae67ccb-a8c7-4617-a9c3-a571be023982/76aa76b0-9a8c-42ab-99b4-e7b32fceea03/1280x720/match/image.jpg",
             "season": "1",
-            "number": "8"
+            "number": "8",
+            "keywords": "épisode 8saison 1"
         },
         {
             "id": "9",
@@ -88,7 +96,8 @@
             "image_small": "https://images.telequebec.tv/medias/045405/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/7bbdb517-0d87-490e-8276-b16556830d6b/454cfdc6-7996-4341-810d-9ff9a919aaa6/1280x720/match/image.jpg",
             "season": "1",
-            "number": "9"
+            "number": "9",
+            "keywords": "épisode 9saison 1"
         },
         {
             "id": "10",
@@ -98,7 +107,8 @@
             "image_small": "https://images.telequebec.tv/medias/045438/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/09acc223-9161-476a-800d-7e7a43f983ca/ffd5cc08-2a8b-4ff9-8ffb-26db98748166/1280x720/match/image.jpg",
             "season": "1",
-            "number": "10"
+            "number": "10",
+            "keywords": "épisode 10saison 1"
         },
         {
             "id": "11",
@@ -108,7 +118,8 @@
             "image_small": "https://images.telequebec.tv/medias/045534/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/3106a94c-3999-41b8-b5d0-3995eb8d1d1c/2827c7cd-23f1-4de9-8635-f2878c2eb183/1280x720/match/image.jpg",
             "season": "1",
-            "number": "11"
+            "number": "11",
+            "keywords": "épisode 11saison 1"
         },
         {
             "id": "12",
@@ -118,7 +129,8 @@
             "image_small": "https://images.telequebec.tv/medias/045545/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/85391e50-0fab-4415-8919-44ae03b794fb/ff04f3c0-4b41-4505-b7fc-4e8b65621c49/1280x720/match/image.jpg",
             "season": "1",
-            "number": "12"
+            "number": "12",
+            "keywords": "épisode 12saison 1"
         },
         {
             "id": "13",
@@ -128,7 +140,8 @@
             "image_small": "https://images.telequebec.tv/medias/045688/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/b9bc0726-bd0a-4136-81a8-375f7d67e8a5/c36e8eaa-4f09-4d85-b411-e89c3bbb3152/1280x720/match/image.jpg",
             "season": "1",
-            "number": "13"
+            "number": "13",
+            "keywords": "épisode 13saison 1"
         },
         {
             "id": "14",
@@ -138,7 +151,8 @@
             "image_small": "https://images.telequebec.tv/medias/045700/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/a488f4fa-9e31-443d-9d87-816c90e1861d/754c8539-8307-473a-9d28-e19fdd5dc177/1280x720/match/image.jpg",
             "season": "1",
-            "number": "14"
+            "number": "14",
+            "keywords": "épisode 14saison 1"
         },
         {
             "id": "15",
@@ -148,7 +162,8 @@
             "image_small": "https://images.telequebec.tv/medias/045717/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/40bc535e-c0c5-4642-b04f-408025544356/79cd4af6-beb9-471f-a9e5-082e2bf3ea48/1280x720/match/image.jpg",
             "season": "1",
-            "number": "15"
+            "number": "15",
+            "keywords": "épisode 15saison 1"
         },
         {
             "id": "16",
@@ -158,7 +173,8 @@
             "image_small": "https://images.telequebec.tv/medias/045950/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/fc225057-9961-4d07-9c89-d99bdd745bb7/a546d7d6-8987-4dfc-918d-0653d28c7ca5/1280x720/match/image.jpg",
             "season": "1",
-            "number": "16"
+            "number": "16",
+            "keywords": "épisode 16saison 1"
         },
         {
             "id": "17",
@@ -168,7 +184,8 @@
             "image_small": "https://images.telequebec.tv/medias/045962/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/157faf5e-c14f-4673-8eab-85e012a84943/14897e9f-8cad-48a8-bee1-bad34c098e81/1280x720/match/image.jpg",
             "season": "1",
-            "number": "17"
+            "number": "17",
+            "keywords": "épisode 17saison 1"
         },
         {
             "id": "18",
@@ -178,7 +195,8 @@
             "image_small": "https://images.telequebec.tv/medias/045976/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/551dde11-b508-44a2-a533-e8656aec7174/40acbfad-009e-4851-9e22-46f87eb758ec/1280x720/match/image.jpg",
             "season": "1",
-            "number": "18"
+            "number": "18",
+            "keywords": "épisode 18saison 1"
         },
         {
             "id": "19",
@@ -188,7 +206,8 @@
             "image_small": "https://images.telequebec.tv/medias/046048/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/99df2f50-5817-420f-a605-f280ae3e2625/c026b06f-84c9-4646-86e5-0b52e42035cc/1280x720/match/image.jpg",
             "season": "1",
-            "number": "19"
+            "number": "19",
+            "keywords": "épisode 19saison 1"
         },
         {
             "id": "20",
@@ -198,7 +217,8 @@
             "image_small": "https://images.telequebec.tv/medias/046060/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/a6f2fb45-b875-4836-a8c6-1dce8f5f587f/58ad1355-cd43-46a0-b945-22c9ad59a99a/1280x720/match/image.jpg",
             "season": "1",
-            "number": "20"
+            "number": "20",
+            "keywords": "épisode 20saison 1"
         },
         {
             "id": "21",
@@ -208,7 +228,8 @@
             "image_small": "https://images.telequebec.tv/medias/046074/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/1cec4e01-f73d-4522-aca2-172ee27377fd/92f9b6e6-54c1-474d-9a74-ca3235925d4c/1280x720/match/image.jpg",
             "season": "1",
-            "number": "21"
+            "number": "21",
+            "keywords": "épisode 21saison 1"
         },
         {
             "id": "22",
@@ -218,7 +239,8 @@
             "image_small": "https://images.telequebec.tv/medias/046316/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/90d24cbe-b3a8-4412-87eb-3a4ffcba3636/2ca7e2ff-7bf4-4515-a9c0-6d88c05b55e4/1280x720/match/image.jpg",
             "season": "1",
-            "number": "22"
+            "number": "22",
+            "keywords": "épisode 22saison 1"
         },
         {
             "id": "23",
@@ -228,7 +250,8 @@
             "image_small": "https://images.telequebec.tv/medias/046341/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/87cb76f7-320a-4da8-8f49-81372f5401cd/5d2011a8-a0d9-469c-b147-c822a1254f92/1280x720/match/image.jpg",
             "season": "1",
-            "number": "23"
+            "number": "23",
+            "keywords": "épisode 23saison 1"
         },
         {
             "id": "24",
@@ -238,7 +261,8 @@
             "image_small": "https://images.telequebec.tv/medias/046500/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/50c09301-4046-4449-846b-bcbc3ab4c295/a51241c2-e13a-4b68-803e-1e9666eb16c6/1280x720/match/image.jpg",
             "season": "1",
-            "number": "24"
+            "number": "24",
+            "keywords": "épisode 24saison 1"
         },
         {
             "id": "25",
@@ -248,7 +272,8 @@
             "image_small": "https://images.telequebec.tv/medias/046860/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/8d09695e-ea40-4fb0-8b21-e5e4582b1f87/8efb8908-2572-4fe0-b5b4-648dcfe2e25b/1280x720/match/image.jpg",
             "season": "1",
-            "number": "25"
+            "number": "25",
+            "keywords": "épisode 25saison 1"
         },
         {
             "id": "26",
@@ -258,7 +283,8 @@
             "image_small": "https://images.telequebec.tv/medias/046875/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/351fec87-636a-4fa7-9627-da9a1a1e24c7/093b0224-f296-42a7-9edf-dd32745b50a7/1280x720/match/image.jpg",
             "season": "1",
-            "number": "26"
+            "number": "26",
+            "keywords": "épisode 26saison 1"
         },
         {
             "id": "27",
@@ -268,7 +294,8 @@
             "image_small": "https://images.telequebec.tv/medias/047055/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/0b8057e0-3ba7-4a38-9ac9-9e8379451061/7c1dfea6-7da4-4826-aae2-ca42040e6c02/1280x720/match/image.jpg",
             "season": "1",
-            "number": "27"
+            "number": "27",
+            "keywords": "épisode 27saison 1"
         },
         {
             "id": "28",
@@ -278,7 +305,8 @@
             "image_small": "https://images.telequebec.tv/medias/047106/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/4ebc9725-8c89-4f39-bbda-acc3fdf631d7/626f2923-5e97-443c-9dc3-2878c72f1c7d/1280x720/match/image.jpg",
             "season": "1",
-            "number": "28"
+            "number": "28",
+            "keywords": "épisode 28saison 1"
         },
         {
             "id": "29",
@@ -288,7 +316,8 @@
             "image_small": "https://images.telequebec.tv/medias/047178/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/8b58dd08-d19c-41de-ba7f-6124e1cd58f2/56ee0bc8-9f85-4770-b6b7-a76484b174f8/1280x720/match/image.jpg",
             "season": "1",
-            "number": "29"
+            "number": "29",
+            "keywords": "épisode 29saison 1"
         },
         {
             "id": "30",
@@ -298,7 +327,8 @@
             "image_small": "https://images.telequebec.tv/medias/047214/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ed256b2e-0d7f-4c35-ab2f-4c9d637038f7/51b0ec59-d3a1-4c35-8881-cfa3e204dcc4/1280x720/match/image.jpg",
             "season": "1",
-            "number": "30"
+            "number": "30",
+            "keywords": "épisode 30saison 1"
         },
         {
             "id": "31",
@@ -308,7 +338,8 @@
             "image_small": "https://images.telequebec.tv/medias/047254/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9e5370a9-21e8-4a4d-8d98-ec76c4a71867/3102a108-1f47-4a74-860a-2278d68c3939/1280x720/match/image.jpg",
             "season": "1",
-            "number": "31"
+            "number": "31",
+            "keywords": "épisode 31saison 1"
         },
         {
             "id": "32",
@@ -318,7 +349,8 @@
             "image_small": "https://images.telequebec.tv/medias/047271/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/3763c1a1-628a-4b2f-8d8e-d750e94aaab9/39823e6e-65b4-4d1c-ba40-3a5f1d667de5/1280x720/match/image.jpg",
             "season": "1",
-            "number": "32"
+            "number": "32",
+            "keywords": "épisode 32saison 1"
         },
         {
             "id": "33",
@@ -328,7 +360,8 @@
             "image_small": "https://images.telequebec.tv/medias/047427/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/b75a84cd-e72f-4f29-ab40-e4fedfe612b1/b1061663-0e78-41f3-825d-887971115e8d/1280x720/match/image.jpg",
             "season": "1",
-            "number": "33"
+            "number": "33",
+            "keywords": "épisode 33saison 1"
         },
         {
             "id": "34",
@@ -338,7 +371,8 @@
             "image_small": "https://images.telequebec.tv/medias/047448/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/cf5274c6-893f-4b01-9772-7c6975cd9cb5/90efe16c-07b6-4ddc-8e6f-3dc2cf772cc7/1280x720/match/image.jpg",
             "season": "1",
-            "number": "34"
+            "number": "34",
+            "keywords": "épisode 34saison 1"
         },
         {
             "id": "35",
@@ -348,7 +382,8 @@
             "image_small": "https://images.telequebec.tv/medias/047583/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/95903878-28aa-4a5d-a6e5-19f6252b10a0/c02eb471-baee-4804-af93-c89e3237bcb4/1280x720/match/image.jpg",
             "season": "1",
-            "number": "35"
+            "number": "35",
+            "keywords": "épisode 35saison 1"
         },
         {
             "id": "36",
@@ -358,7 +393,8 @@
             "image_small": "https://images.telequebec.tv/medias/047604/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/60578478-2237-4d2f-a90e-c8aca2147124/f40b3be7-7660-4868-a01c-03e5b24c143a/1280x720/match/image.jpg",
             "season": "1",
-            "number": "36"
+            "number": "36",
+            "keywords": "épisode 36saison 1"
         },
         {
             "id": "37",
@@ -368,7 +404,8 @@
             "image_small": "https://images.telequebec.tv/medias/047625/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/52fd4e84-c33f-4176-b5ad-04df51b1da31/9e88b187-6d5a-4c62-ad57-4865c6271645/1280x720/match/image.jpg",
             "season": "1",
-            "number": "37"
+            "number": "37",
+            "keywords": "épisode 37saison 1"
         },
         {
             "id": "38",
@@ -378,7 +415,8 @@
             "image_small": "https://images.telequebec.tv/medias/047648/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/5ea6c3e8-6aa0-46c0-a660-eb594b1311fd/0977f54c-7784-4e3e-ba0b-7a2cd6d70155/1280x720/match/image.jpg",
             "season": "1",
-            "number": "38"
+            "number": "38",
+            "keywords": "épisode 38saison 1"
         },
         {
             "id": "39",
@@ -388,7 +426,8 @@
             "image_small": "https://images.telequebec.tv/medias/047686/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/1a485c49-1715-46e2-8c07-fd588145e62e/6c5ee031-2a96-4697-82dc-90f8dcf95de2/1280x720/match/image.jpg",
             "season": "1",
-            "number": "39"
+            "number": "39",
+            "keywords": "épisode 39saison 1"
         },
         {
             "id": "40",
@@ -398,7 +437,8 @@
             "image_small": "https://images.telequebec.tv/medias/047734/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e24a06e3-0072-4635-be17-a1b1f9a6a1ef/cabd3e5c-7e6d-4d02-8f4f-61ff0635742e/1280x720/match/image.jpg",
             "season": "1",
-            "number": "40"
+            "number": "40",
+            "keywords": "épisode 40saison 1"
         },
         {
             "id": "41",
@@ -408,7 +448,8 @@
             "image_small": "https://images.telequebec.tv/medias/048999/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/df74a1d1-cbf3-4de3-9191-1a436bab602b/e9b5c6b8-3133-4110-9929-3c1209630f6e/1280x720/match/image.jpg",
             "season": "2",
-            "number": "1"
+            "number": "1",
+            "keywords": "épisode 1saison 2"
         },
         {
             "id": "42",
@@ -418,7 +459,8 @@
             "image_small": "https://images.telequebec.tv/medias/049026/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/fdab2b05-c700-4a5f-81eb-048c3a6c8305/ed45a97d-ba9d-4975-97c5-8bc5bfa98d20/1280x720/match/image.jpg",
             "season": "2",
-            "number": "2"
+            "number": "2",
+            "keywords": "épisode 2saison 2"
         },
         {
             "id": "43",
@@ -428,7 +470,8 @@
             "image_small": "https://images.telequebec.tv/medias/049044/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/09db80b9-af05-4148-a2c5-1fde2c6489f8/5fdc9688-6c4d-4aed-a066-161fc4182b56/1280x720/match/image.jpg",
             "season": "2",
-            "number": "3"
+            "number": "3",
+            "keywords": "épisode 3saison 2"
         },
         {
             "id": "44",
@@ -438,7 +481,8 @@
             "image_small": "https://images.telequebec.tv/medias/049059/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/0723b317-beb5-4325-9cb2-3dd38ae9c026/3c6391b7-383d-4f1b-87cd-297931825f83/1280x720/match/image.jpg",
             "season": "2",
-            "number": "4"
+            "number": "4",
+            "keywords": "épisode 4saison 2"
         },
         {
             "id": "45",
@@ -448,7 +492,8 @@
             "image_small": "https://images.telequebec.tv/medias/049154/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/84f6ea19-8cd6-46c4-8c8f-59ddf69c7a7a/e8398100-67f2-4438-b729-54f4c4e6e91a/1280x720/match/image.jpg",
             "season": "2",
-            "number": "5"
+            "number": "5",
+            "keywords": "épisode 5saison 2"
         },
         {
             "id": "46",
@@ -458,7 +503,8 @@
             "image_small": "https://images.telequebec.tv/medias/049189/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/5d3bafa5-fa95-43be-b09e-1c08aa33f73c/d7089ff7-f451-4785-8808-b29fe2ed9428/1280x720/match/image.jpg",
             "season": "2",
-            "number": "6"
+            "number": "6",
+            "keywords": "épisode 6saison 2"
         },
         {
             "id": "47",
@@ -468,7 +514,8 @@
             "image_small": "https://images.telequebec.tv/medias/049206/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/50332f12-09cc-4dff-b4e3-6dc5a855791d/28a70cfa-395b-4ac1-8fea-75146b49e3b7/1280x720/match/image.jpg",
             "season": "2",
-            "number": "7"
+            "number": "7",
+            "keywords": "épisode 7saison 2"
         },
         {
             "id": "48",
@@ -478,7 +525,8 @@
             "image_small": "https://images.telequebec.tv/medias/049224/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e85e0f20-492b-42d1-a0cd-393ad79210c3/612a7eaa-63f2-4bf1-9cff-64043b251f64/1280x720/match/image.jpg",
             "season": "2",
-            "number": "8"
+            "number": "8",
+            "keywords": "épisode 8saison 2"
         },
         {
             "id": "49",
@@ -488,7 +536,8 @@
             "image_small": "https://images.telequebec.tv/medias/049401/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/28fd4b1c-3f98-4ba9-8f60-127d6867b8e4/ef04624e-498e-421a-8fc2-fa1484141690/1280x720/match/image.jpg",
             "season": "2",
-            "number": "9"
+            "number": "9",
+            "keywords": "épisode 9saison 2"
         },
         {
             "id": "50",
@@ -498,7 +547,8 @@
             "image_small": "https://images.telequebec.tv/medias/049437/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ade9997a-3ac1-42e3-a5d0-4987ffd5d437/17dc9959-86e9-43e8-9aaf-f91c7e63d28b/1280x720/match/image.jpg",
             "season": "2",
-            "number": "10"
+            "number": "10",
+            "keywords": "épisode 10saison 2"
         },
         {
             "id": "51",
@@ -508,7 +558,8 @@
             "image_small": "https://images.telequebec.tv/medias/049438/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/6f9e6db7-2cc1-4da5-8ec0-296b4a1e7611/378e33f0-adb5-46bf-b209-e6550661e7f6/1280x720/match/image.jpg",
             "season": "2",
-            "number": "11"
+            "number": "11",
+            "keywords": "épisode 11saison 2"
         },
         {
             "id": "52",
@@ -518,7 +569,8 @@
             "image_small": "https://images.telequebec.tv/medias/049439/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/c9869bfd-d4ee-4742-b260-29f105552c3d/57c7f155-855d-4221-8ef8-bd613bf08648/1280x720/match/image.jpg",
             "season": "2",
-            "number": "12"
+            "number": "12",
+            "keywords": "épisode 12saison 2"
         },
         {
             "id": "53",
@@ -528,7 +580,8 @@
             "image_small": "https://images.telequebec.tv/medias/049492/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/18c08ec0-da8d-47ad-8f6b-744202858243/19bcb5f5-792f-4eea-9c71-d87ab06d9e32/1280x720/match/image.jpg",
             "season": "2",
-            "number": "13"
+            "number": "13",
+            "keywords": "épisode 13saison 2"
         },
         {
             "id": "54",
@@ -538,7 +591,8 @@
             "image_small": "https://images.telequebec.tv/medias/049493/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/5a98734b-c353-4a50-b4ed-d6de6cb3aad5/6ebcec86-d073-41a4-bd35-8277dd9cd897/1280x720/match/image.jpg",
             "season": "2",
-            "number": "14"
+            "number": "14",
+            "keywords": "épisode 14saison 2"
         },
         {
             "id": "55",
@@ -548,7 +602,8 @@
             "image_small": "https://images.telequebec.tv/medias/049494/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e4fe4579-bcfe-4be9-a7a1-5f9de4e39da1/1eef1953-dd19-4c58-b1d6-0e9662b79cbb/1280x720/match/image.jpg",
             "season": "2",
-            "number": "15"
+            "number": "15",
+            "keywords": "épisode 15saison 2"
         },
         {
             "id": "56",
@@ -558,7 +613,8 @@
             "image_small": "https://images.telequebec.tv/medias/049545/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e52f81f8-18a3-4e5e-a343-8bde28d3cc91/9c0d55ba-e494-49ed-9698-00e51c3e6394/1280x720/match/image.jpg",
             "season": "2",
-            "number": "16"
+            "number": "16",
+            "keywords": "épisode 16saison 2"
         },
         {
             "id": "57",
@@ -568,7 +624,8 @@
             "image_small": "https://images.telequebec.tv/medias/049691/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/a8b4fc22-748a-4a63-ad7b-e5dc892eb2ac/a4a5f1b9-9a89-4283-9e26-123af195e4ea/1280x720/match/image.jpg",
             "season": "2",
-            "number": "17"
+            "number": "17",
+            "keywords": "épisode 17saison 2"
         },
         {
             "id": "58",
@@ -578,7 +635,8 @@
             "image_small": "https://images.telequebec.tv/medias/049692/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ac47c95e-39d3-4169-8500-6c9d9437fedf/999ac9e9-e994-4141-a9fb-7591884bfbc2/1280x720/match/image.jpg",
             "season": "2",
-            "number": "18"
+            "number": "18",
+            "keywords": "épisode 18saison 2"
         },
         {
             "id": "59",
@@ -588,7 +646,8 @@
             "image_small": "https://images.telequebec.tv/medias/049693/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/2acaeb10-200b-4888-943a-4f73decd4e12/c11682e7-6e85-43ab-9018-792ef47783b4/1280x720/match/image.jpg",
             "season": "2",
-            "number": "19"
+            "number": "19",
+            "keywords": "épisode 19saison 2"
         },
         {
             "id": "60",
@@ -598,7 +657,8 @@
             "image_small": "https://images.telequebec.tv/medias/049694/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/34e2c20c-8ed0-4601-817e-bc9713ad70d3/6abf0fbe-afbb-4caf-b2f9-c86c01399693/1280x720/match/image.jpg",
             "season": "2",
-            "number": "20"
+            "number": "20",
+            "keywords": "épisode 20saison 2"
         },
         {
             "id": "61",
@@ -608,7 +668,8 @@
             "image_small": "https://images.telequebec.tv/medias/049952/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/fcaca93e-2078-4d32-bfb2-731158126ae2/68f6ad0b-4daf-4811-8c2d-58302b6ada75/1280x720/match/image.jpg",
             "season": "2",
-            "number": "21"
+            "number": "21",
+            "keywords": "épisode 21saison 2"
         },
         {
             "id": "62",
@@ -618,7 +679,8 @@
             "image_small": "https://images.telequebec.tv/medias/049953/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/84e867b8-111f-4861-ae67-0dfa41437d44/14958510-9cb5-4247-ba70-7d9780120601/1280x720/match/image.jpg",
             "season": "2",
-            "number": "22"
+            "number": "22",
+            "keywords": "épisode 22saison 2"
         },
         {
             "id": "63",
@@ -628,7 +690,8 @@
             "image_small": "https://images.telequebec.tv/medias/049954/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/45564ff6-ebd7-4768-a84c-645a8a17ce26/8e0212c4-eb9d-4fca-af1e-d6e9d899f38d/1280x720/match/image.jpg",
             "season": "2",
-            "number": "23"
+            "number": "23",
+            "keywords": "épisode 23saison 2"
         },
         {
             "id": "64",
@@ -638,7 +701,8 @@
             "image_small": "https://images.telequebec.tv/medias/049955/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/d9929a0f-e7ff-4a7e-a373-55e8f246b9b5/a68f7f11-d7a0-4ee0-b80b-a3488b434ef2/1280x720/match/image.jpg",
             "season": "2",
-            "number": "24"
+            "number": "24",
+            "keywords": "épisode 24saison 2"
         },
         {
             "id": "65",
@@ -648,7 +712,8 @@
             "image_small": "https://images.telequebec.tv/medias/050069/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ca4bd78e-1f0a-42fe-bb3f-2a70afab5b45/ba0f19f9-017c-455d-ac7d-f72baa142c6c/1280x720/match/image.jpg",
             "season": "2",
-            "number": "25"
+            "number": "25",
+            "keywords": "épisode 25saison 2"
         },
         {
             "id": "66",
@@ -658,7 +723,8 @@
             "image_small": "https://images.telequebec.tv/medias/050088/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9595de55-70ac-40c5-b196-503a5486226e/56498604-a0f5-41c4-94b2-db8905473fae/1280x720/match/image.jpg",
             "season": "2",
-            "number": "26"
+            "number": "26",
+            "keywords": "épisode 26saison 2"
         },
         {
             "id": "67",
@@ -668,7 +734,8 @@
             "image_small": "https://images.telequebec.tv/medias/050103/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/1b481afd-d577-473a-afdc-c7a5d29b8537/e9da6e01-0e9a-4b4b-91d6-3c1c25adfc6a/1280x720/match/image.jpg",
             "season": "2",
-            "number": "27"
+            "number": "27",
+            "keywords": "épisode 27saison 2"
         },
         {
             "id": "68",
@@ -678,7 +745,8 @@
             "image_small": "https://images.telequebec.tv/medias/050117/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/65002e71-5dd8-4fc7-b735-3b96be64546d/5e48cbf7-7b78-45db-b2d1-b642fc8dd70b/1280x720/match/image.jpg",
             "season": "2",
-            "number": "28"
+            "number": "28",
+            "keywords": "épisode 28saison 2"
         },
         {
             "id": "69",
@@ -688,7 +756,8 @@
             "image_small": "https://images.telequebec.tv/medias/050253/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/09807878-5a01-4cf1-ae37-4ab52d165cf2/866a87d3-9bd5-420a-8f17-714d66657be0/1280x720/match/image.jpg",
             "season": "2",
-            "number": "29"
+            "number": "29",
+            "keywords": "épisode 29saison 2"
         },
         {
             "id": "70",
@@ -698,7 +767,8 @@
             "image_small": "https://images.telequebec.tv/medias/050269/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/4035fd86-9d84-4d75-98cc-18484b2c44ee/87221133-397f-4a63-b7af-af15cc04f6dd/1280x720/match/image.jpg",
             "season": "2",
-            "number": "30"
+            "number": "30",
+            "keywords": "épisode 30saison 2"
         },
         {
             "id": "71",
@@ -708,7 +778,8 @@
             "image_small": "https://images.telequebec.tv/medias/050270/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/adbd2284-5a84-48ad-81c0-9eafa74a2bf5/8119269c-43b4-4e42-8686-a949bebc8ccb/1280x720/match/image.jpg",
             "season": "2",
-            "number": "31"
+            "number": "31",
+            "keywords": "épisode 31saison 2"
         },
         {
             "id": "72",
@@ -718,7 +789,8 @@
             "image_small": "https://images.telequebec.tv/medias/050272/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/0d4e4183-f4cc-4e11-8bbc-49920866f25c/a88c81ae-9ff5-4452-9811-84397e123bd3/1280x720/match/image.jpg",
             "season": "2",
-            "number": "32"
+            "number": "32",
+            "keywords": "épisode 32saison 2"
         },
         {
             "id": "73",
@@ -728,7 +800,8 @@
             "image_small": "https://images.telequebec.tv/medias/050273/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e8c6c758-2473-4d32-8703-f465f6a9514c/0b819bef-fda9-45a3-b94c-71c827703347/1280x720/match/image.jpg",
             "season": "2",
-            "number": "33"
+            "number": "33",
+            "keywords": "épisode 33saison 2"
         },
         {
             "id": "74",
@@ -738,7 +811,8 @@
             "image_small": "https://images.telequebec.tv/medias/050274/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/feba3d69-3548-4fb9-8b4a-cab823c4cd56/116105a8-edf5-4261-90d8-c8a184f947bf/1280x720/match/image.jpg",
             "season": "2",
-            "number": "34"
+            "number": "34",
+            "keywords": "épisode 34saison 2"
         },
         {
             "id": "75",
@@ -748,7 +822,8 @@
             "image_small": "https://images.telequebec.tv/medias/050275/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/88848037-91c8-49c0-afdd-95b2c5cc0758/df0f54a3-1f48-4e79-bfde-e5c7899bf0e9/1280x720/match/image.jpg",
             "season": "2",
-            "number": "35"
+            "number": "35",
+            "keywords": "épisode 35saison 2"
         },
         {
             "id": "76",
@@ -758,7 +833,8 @@
             "image_small": "https://images.telequebec.tv/medias/050276/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/0d9ac5d7-f402-4fca-b1b9-8591cfb25b5a/e0b4f7e0-0e1b-4170-9b74-67b36697167f/1280x720/match/image.jpg",
             "season": "2",
-            "number": "36"
+            "number": "36",
+            "keywords": "épisode 36saison 2"
         },
         {
             "id": "77",
@@ -768,7 +844,8 @@
             "image_small": "https://images.telequebec.tv/medias/050277/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/18e5e6a2-3a44-423d-b469-48985bb22394/44429d95-4c65-4820-93a2-5d513638204e/1280x720/match/image.jpg",
             "season": "2",
-            "number": "37"
+            "number": "37",
+            "keywords": "épisode 37saison 2"
         },
         {
             "id": "78",
@@ -778,7 +855,8 @@
             "image_small": "https://images.telequebec.tv/medias/050278/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/08450461-a9c7-43af-bef7-914a596b96d3/0e978e94-ea26-42e8-9d37-16f3a5cbc818/1280x720/match/image.jpg",
             "season": "2",
-            "number": "38"
+            "number": "38",
+            "keywords": "épisode 38saison 2"
         },
         {
             "id": "79",
@@ -788,7 +866,8 @@
             "image_small": "https://images.telequebec.tv/medias/050279/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9f739f05-a1f9-4db1-82ec-b53f04789dc9/0b6045bc-e52f-4880-8004-f1143760d0cd/1280x720/match/image.jpg",
             "season": "2",
-            "number": "39"
+            "number": "39",
+            "keywords": "épisode 39saison 2"
         },
         {
             "id": "80",
@@ -798,7 +877,8 @@
             "image_small": "https://images.telequebec.tv/medias/050280/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/3b4cd715-3585-4b8a-94f3-407f8b88cbdc/a3f2718d-3a63-4c02-9077-77650208186c/1280x720/match/image.jpg",
             "season": "2",
-            "number": "40"
+            "number": "40",
+            "keywords": "épisode 40saison 2"
         },
         {
             "id": "81",
@@ -808,7 +888,8 @@
             "image_small": "https://images.telequebec.tv/medias/057655/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ccaf0ae6-25e6-4655-af4e-3eaf852dc650/f1dbe4cc-5225-42c6-92b7-7819ccfbe88a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "1"
+            "number": "1",
+            "keywords": "épisode 1saison 3"
         },
         {
             "id": "82",
@@ -818,7 +899,8 @@
             "image_small": "https://images.telequebec.tv/medias/057684/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ff0c20a2-c289-48f6-b801-d4a5f86e3ffa/1f56f8d9-43bd-4484-a211-17cdf0ef1c56/1280x720/match/image.jpg",
             "season": "3",
-            "number": "2"
+            "number": "2",
+            "keywords": "épisode 2saison 3"
         },
         {
             "id": "83",
@@ -828,7 +910,8 @@
             "image_small": "https://images.telequebec.tv/medias/057734/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/3e36a54b-3287-4ad8-bef4-da1c31bc85da/236ddb87-4cf6-4b90-a843-47690ee62e69/1280x720/match/image.jpg",
             "season": "3",
-            "number": "3"
+            "number": "3",
+            "keywords": "épisode 3saison 3"
         },
         {
             "id": "84",
@@ -838,7 +921,8 @@
             "image_small": "https://images.telequebec.tv/medias/057751/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/14640b93-9816-4e50-84fa-a40cde3bef59/a2336450-8dee-4140-bd78-da6ae0f0a53e/1280x720/match/image.jpg",
             "season": "3",
-            "number": "4"
+            "number": "4",
+            "keywords": "épisode 4saison 3"
         },
         {
             "id": "85",
@@ -848,7 +932,8 @@
             "image_small": "https://images.telequebec.tv/medias/057769/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/56cd67b2-371e-4777-ae5c-4383c175243d/797e329c-b349-4256-ba4f-78976618e4d5/1280x720/match/image.jpg",
             "season": "3",
-            "number": "5"
+            "number": "5",
+            "keywords": "épisode 5saison 3"
         },
         {
             "id": "86",
@@ -859,7 +944,7 @@
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/26942808-99cd-44bc-882a-7465544ab38f/5fc51790-0e90-4dec-8784-ea96703ce3d2/1280x720/match/image.jpg",
             "season": "3",
             "number": "6",
-            "key_word": "Banjo"
+            "keywords": "épisode 6saison 3Banjo"
         },
         {
             "id": "87",
@@ -870,7 +955,7 @@
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/94010cc2-ca0d-4356-82a9-c50ac959eb65/2ec08c38-0bb4-474e-a560-43c89a5a57a7/1280x720/match/image.jpg",
             "season": "3",
             "number": "7",
-            "key_word": "Collection, Comptine, Sorcière, Lune, Pignon, Cha-cha-cha"
+            "keywords": "épisode 7saison 3Collection, Comptine, Sorcière, Lune, Pignon, Cha-cha-cha"
         },
         {
             "id": "88",
@@ -880,7 +965,8 @@
             "image_small": "https://images.telequebec.tv/medias/057877/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9851ee03-57da-45ba-b9a9-f331320c09ce/8f17a870-e4d6-4926-b77e-1fb16c7fb75e/1280x720/match/image.jpg",
             "season": "3",
-            "number": "8"
+            "number": "8",
+            "keywords": "épisode 8saison 3"
         },
         {
             "id": "89",
@@ -890,7 +976,8 @@
             "image_small": "https://images.telequebec.tv/medias/058025/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e2db5874-d0a8-4946-87df-5b79edd6e2ce/aec9eabd-fadc-4159-a8d4-8d3f95469ca6/1280x720/match/image.jpg",
             "season": "3",
-            "number": "9"
+            "number": "9",
+            "keywords": "épisode 9saison 3"
         },
         {
             "id": "90",
@@ -900,7 +987,8 @@
             "image_small": "https://images.telequebec.tv/medias/058045/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/7327b8ba-e51c-4c19-8a7b-980a3b2ecf05/1af0ad99-1e96-444d-b9c3-b29cf8f4d067/1280x720/match/image.jpg",
             "season": "3",
-            "number": "10"
+            "number": "10",
+            "keywords": "épisode 10saison 3"
         },
         {
             "id": "91",
@@ -910,7 +998,8 @@
             "image_small": "https://images.telequebec.tv/medias/058063/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/60144954-9190-467b-ac00-fe0951b05277/7680992f-6cb8-4897-b14c-20cb1dc8cca8/1280x720/match/image.jpg",
             "season": "3",
-            "number": "11"
+            "number": "11",
+            "keywords": "épisode 11saison 3"
         },
         {
             "id": "92",
@@ -920,7 +1009,8 @@
             "image_small": "https://images.telequebec.tv/medias/058087/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/97974ba7-006a-4d92-bdcb-ff8be2363f34/560725a0-021f-4c21-9b7e-781023ba5b14/1280x720/match/image.jpg",
             "season": "3",
-            "number": "12"
+            "number": "12",
+            "keywords": "épisode 12saison 3"
         },
         {
             "id": "93",
@@ -930,7 +1020,8 @@
             "image_small": "https://images.telequebec.tv/medias/058103/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/aae23d5e-6ddc-4739-b262-62819579bd99/15266914-823d-43ad-bacc-11cfc54def3a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "13"
+            "number": "13",
+            "keywords": "épisode 13saison 3"
         },
         {
             "id": "94",
@@ -940,7 +1031,8 @@
             "image_small": "https://images.telequebec.tv/medias/058258/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/75986d7b-6893-481b-a91e-8ef9de705359/8873b7b2-ed4e-43f8-ba44-b67c2aea02af/1280x720/match/image.jpg",
             "season": "3",
-            "number": "14"
+            "number": "14",
+            "keywords": "épisode 14saison 3"
         },
         {
             "id": "95",
@@ -950,7 +1042,8 @@
             "image_small": "https://images.telequebec.tv/medias/058273/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/f460649f-965e-429b-b7cd-e729d184b752/e290d2ba-79d9-43f5-84b0-68e27ba0ea5f/1280x720/match/image.jpg",
             "season": "3",
-            "number": "15"
+            "number": "15",
+            "keywords": "épisode 15saison 3"
         },
         {
             "id": "96",
@@ -960,7 +1053,8 @@
             "image_small": "https://images.telequebec.tv/medias/058286/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/a678cfce-5036-472a-a105-6b2bd4c2cec0/8edfb317-d535-45d5-a1fe-1061518990c4/1280x720/match/image.jpg",
             "season": "3",
-            "number": "16"
+            "number": "16",
+            "keywords": "épisode 16saison 3"
         },
         {
             "id": "97",
@@ -970,7 +1064,8 @@
             "image_small": "https://images.telequebec.tv/medias/058302/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/c48160ea-31a9-470f-88a9-e0883913ba9f/ad525309-6842-4fe6-83cd-6e7633d1f403/1280x720/match/image.jpg",
             "season": "3",
-            "number": "17"
+            "number": "17",
+            "keywords": "épisode 17saison 3"
         },
         {
             "id": "98",
@@ -980,7 +1075,8 @@
             "image_small": "https://images.telequebec.tv/medias/058489/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/aab793ed-ab5f-4764-82cb-bb872714dd49/9b231962-2673-4b1e-bf3b-75f1390785d5/1280x720/match/image.jpg",
             "season": "3",
-            "number": "18"
+            "number": "18",
+            "keywords": "épisode 18saison 3"
         },
         {
             "id": "99",
@@ -990,7 +1086,8 @@
             "image_small": "https://images.telequebec.tv/medias/058505/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/bfa019f4-1e5a-4b8d-8416-dfcc0de3f5f3/ad8d793f-82ea-461f-bb62-a0f33121f98c/1280x720/match/image.jpg",
             "season": "3",
-            "number": "19"
+            "number": "19",
+            "keywords": "épisode 19saison 3"
         },
         {
             "id": "100",
@@ -1000,7 +1097,8 @@
             "image_small": "https://images.telequebec.tv/medias/058522/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/b2a383f8-f01c-462f-b9b3-d747ea76ff37/82eeb094-45a0-4015-ba7a-51cbe13c25de/1280x720/match/image.jpg",
             "season": "3",
-            "number": "20"
+            "number": "20",
+            "keywords": "épisode 20saison 3"
         },
         {
             "id": "101",
@@ -1010,7 +1108,8 @@
             "image_small": "https://images.telequebec.tv/medias/058540/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/a8b202bf-5654-449a-b281-04a2270a3e92/24e80f9b-d3d1-47b2-bcb7-58b8cd6f391e/1280x720/match/image.jpg",
             "season": "3",
-            "number": "21"
+            "number": "21",
+            "keywords": "épisode 21saison 3"
         },
         {
             "id": "102",
@@ -1020,7 +1119,8 @@
             "image_small": "https://images.telequebec.tv/medias/058720/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/c106fa68-6e66-4874-bbc1-9151ae5bfbc1/bc34cb05-1560-4192-a56e-e36ebf34706a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "22"
+            "number": "22",
+            "keywords": "épisode 22saison 3"
         },
         {
             "id": "103",
@@ -1030,7 +1130,8 @@
             "image_small": "https://images.telequebec.tv/medias/058736/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/ddf17b84-80e1-4d42-a2b5-4e6d68fdfe41/e6974249-9605-4862-9942-76e11a4f89d8/1280x720/match/image.jpg",
             "season": "3",
-            "number": "23"
+            "number": "23",
+            "keywords": "épisode 23saison 3"
         },
         {
             "id": "104",
@@ -1040,7 +1141,8 @@
             "image_small": "https://images.telequebec.tv/medias/058751/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/7debe3cb-c7ac-48ce-945c-c95f8202549e/ba4ceff2-ea42-48ef-b34a-b67718870ff6/1280x720/match/image.jpg",
             "season": "3",
-            "number": "24"
+            "number": "24",
+            "keywords": "épisode 24saison 3"
         },
         {
             "id": "105",
@@ -1050,7 +1152,8 @@
             "image_small": "https://images.telequebec.tv/medias/058767/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/101834ff-6c98-4240-afe7-d58c969f8d21/af943110-db90-4a0a-b7b7-26fed7673f72/1280x720/match/image.jpg",
             "season": "3",
-            "number": "25"
+            "number": "25",
+            "keywords": "épisode 25saison 3"
         },
         {
             "id": "106",
@@ -1060,7 +1163,8 @@
             "image_small": "https://images.telequebec.tv/medias/058951/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/032c8728-f2b9-4ff2-9547-c7cfa4df4d28/c2cb7615-c887-4549-b5f4-972c29837fdf/1280x720/match/image.jpg",
             "season": "3",
-            "number": "26"
+            "number": "26",
+            "keywords": "épisode 26saison 3"
         },
         {
             "id": "107",
@@ -1070,7 +1174,8 @@
             "image_small": "https://images.telequebec.tv/medias/058970/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/4f16f3a4-cc19-411d-b819-e368d12fe51c/7e9c3f90-1d1c-44cf-8fe3-cd3121c1dde9/1280x720/match/image.jpg",
             "season": "3",
-            "number": "27"
+            "number": "27",
+            "keywords": "épisode 27saison 3"
         },
         {
             "id": "108",
@@ -1080,7 +1185,8 @@
             "image_small": "https://images.telequebec.tv/medias/058986/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/556faa7e-f653-4a11-b66f-8a288c1e1fe6/17e37153-cb34-4e15-9cac-75930189eed1/1280x720/match/image.jpg",
             "season": "3",
-            "number": "28"
+            "number": "28",
+            "keywords": "épisode 28saison 3"
         },
         {
             "id": "109",
@@ -1090,7 +1196,8 @@
             "image_small": "https://images.telequebec.tv/medias/059004/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/e7538fd0-2149-4a46-a33e-937026a8c43a/f396131e-3d13-409b-84f8-5275d5fce6ee/1280x720/match/image.jpg",
             "season": "3",
-            "number": "29"
+            "number": "29",
+            "keywords": "épisode 29saison 3"
         },
         {
             "id": "110",
@@ -1100,7 +1207,8 @@
             "image_small": "https://images.telequebec.tv/medias/059148/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/b83f46f0-e10b-4a39-adb4-b0ddbeb474f1/acd1f0b3-aac1-46bd-b136-a5f8ef9016e2/1280x720/match/image.jpg",
             "season": "3",
-            "number": "30"
+            "number": "30",
+            "keywords": "épisode 30saison 3"
         },
         {
             "id": "111",
@@ -1110,7 +1218,8 @@
             "image_small": "https://images.telequebec.tv/medias/059162/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/81b0f1e8-2586-4360-8f7b-8337d187b880/05cbec10-6969-485f-bcf9-dba644338963/1280x720/match/image.jpg",
             "season": "3",
-            "number": "31"
+            "number": "31",
+            "keywords": "épisode 31saison 3"
         },
         {
             "id": "112",
@@ -1120,7 +1229,8 @@
             "image_small": "https://images.telequebec.tv/medias/059176/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/28abe9fe-25f3-4980-b55e-b13ddf8508c8/c1a63cfa-3b51-40c0-8708-18d6e572f9d8/1280x720/match/image.jpg",
             "season": "3",
-            "number": "32"
+            "number": "32",
+            "keywords": "épisode 32saison 3"
         },
         {
             "id": "113",
@@ -1130,7 +1240,8 @@
             "image_small": "https://images.telequebec.tv/medias/059193/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/9cdd7b82-83d7-40db-ae7a-ec208664361f/549cf7db-f72b-4109-b08c-201bb6864fa5/1280x720/match/image.jpg",
             "season": "3",
-            "number": "33"
+            "number": "33",
+            "keywords": "épisode 33saison 3"
         },
         {
             "id": "114",
@@ -1140,7 +1251,8 @@
             "image_small": "https://images.telequebec.tv/medias/059490/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/cf8b8307-f480-41d4-a6b4-ee1ac2e00c83/ee965b28-a568-4a0f-b077-d3f29df83436/1280x720/match/image.jpg",
             "season": "3",
-            "number": "34"
+            "number": "34",
+            "keywords": "épisode 34saison 3"
         },
         {
             "id": "115",
@@ -1150,7 +1262,8 @@
             "image_small": "https://images.telequebec.tv/medias/059512/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/75aa5db8-bd3f-4831-8ff4-25ce0c0fa0e2/6601e964-b828-45dd-8d49-62a4771c968e/1280x720/match/image.jpg",
             "season": "3",
-            "number": "35"
+            "number": "35",
+            "keywords": "épisode 35saison 3"
         },
         {
             "id": "116",
@@ -1160,7 +1273,8 @@
             "image_small": "https://images.telequebec.tv/medias/059529/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/d9747103-049e-4f91-a2ad-1d53b8bce60e/f2ec04e6-df8d-4487-8b26-b9e1569a4e7a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "36"
+            "number": "36",
+            "keywords": "épisode 36saison 3"
         },
         {
             "id": "117",
@@ -1170,7 +1284,8 @@
             "image_small": "https://images.telequebec.tv/medias/059549/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/d092aabf-f8c1-4c95-949d-1d11b5aeb7d7/a2732f64-1fc7-4218-98e5-b0cb5b41091a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "37"
+            "number": "37",
+            "keywords": "épisode 37saison 3"
         },
         {
             "id": "118",
@@ -1180,7 +1295,8 @@
             "image_small": "https://images.telequebec.tv/medias/059753/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/2f9e7c4e-b61a-4f21-85bb-b5cb81297d8f/9b571036-4512-4ba3-945f-481db2b8190a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "38"
+            "number": "38",
+            "keywords": "épisode 38saison 3"
         },
         {
             "id": "119",
@@ -1190,7 +1306,8 @@
             "image_small": "https://images.telequebec.tv/medias/059768/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/60a58e60-97bb-48f2-ad2a-a068f1612f52/1e1272c0-67bc-4742-9fa5-bf25035d564a/1280x720/match/image.jpg",
             "season": "3",
-            "number": "39"
+            "number": "39",
+            "keywords": "épisode 39saison 3"
         },
         {
             "id": "120",
@@ -1200,7 +1317,8 @@
             "image_small": "https://images.telequebec.tv/medias/059784/default/w208_h117.jpg",
             "image_big": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/6150020952001/3fdc525d-ba5e-476c-8cd9-bea2df4eee5e/eb80a182-f884-4140-808d-786e21517b6f/1280x720/match/image.jpg",
             "season": "3",
-            "number": "40"
+            "number": "40",
+            "keywords": "épisode 40saison 3"
         }
     ]
 }
